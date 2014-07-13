@@ -5,7 +5,7 @@ A prototype of a sharing economy app built while participating in AngelHack Bang
 
 The app's hackathon.io page can be found at http://www.hackathon.io/32262
 
-Short summary
+Description
 -------------
 List what you have and would like to share with others or trade playing the game of bigger and better. And it's all done in a single tap from your iOS device.
 
