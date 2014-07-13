@@ -27,6 +27,8 @@ iOS prototype 'BiggerAndBetter' written by Nik Osipov - MIT License
 
 Profile pictures used for this mockup are produced by [Content Generator Plugin for Sketch](https://github.com/timuric/Content-generator-sketch-plugin). Please see the appropriate license. The pictures may be used in mockups only (do NOT use in live apps).
 
+App icons by [Icons8](http://icons8.com/free-ios-7-icons-in-vector/) - [Free License] (http://icons8.com/license/)
+
 Author
 ------
 Nik Osipov (http://nikosgroup.com)
